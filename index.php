@@ -6,8 +6,8 @@ use EasyWeChat\Foundation\Application;
 $options = [
     'debug' => true,
     'app_id' => 'wx495e5b974eb1b9a5',
-    'secret' => '',
-    'token' => '',
+    'secret' => '1d1b259b55b1730daf783d811cfc12ad',
+    'token' => 'messikiller',
 
     //'aes_key' => '',
 
